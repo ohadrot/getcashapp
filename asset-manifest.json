@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/getcashapp/static/css/main.073c9b0a.css",
+    "main.js": "/getcashapp/static/js/main.01cf3e7d.js",
+    "static/js/787.2f50a6bd.chunk.js": "/getcashapp/static/js/787.2f50a6bd.chunk.js",
+    "static/media/logo.svg": "/getcashapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/getcashapp/index.html",
+    "main.073c9b0a.css.map": "/getcashapp/static/css/main.073c9b0a.css.map",
+    "main.01cf3e7d.js.map": "/getcashapp/static/js/main.01cf3e7d.js.map",
+    "787.2f50a6bd.chunk.js.map": "/getcashapp/static/js/787.2f50a6bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.01cf3e7d.js"
+  ]
+}
